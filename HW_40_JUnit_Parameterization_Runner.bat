@@ -1,1 +1,0 @@
-HW_40_JUnit_Parameterization.bat gpitvl2thw HW_40_JUnit_Parameterization 2.40.2
